@@ -1,0 +1,6 @@
+streamlit
+pandas
+pdfplumber
+pymupdf
+requests
+scikit-learn
